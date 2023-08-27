@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/image/github.png" alt="github 3d icon" height="200">
+    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
 <div align=center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Hung+Pham;Open-source+enthusiast;Artificial+Intelligence+Student;I+use+Arch+btw" alt="Typing SVG" /></a>
@@ -124,10 +124,10 @@
     <a href="https://github.com/hungpham3112">
         <img height="180em"
         src="https://github-profile-trophy.vercel.app/?username=hungpham3112&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
-    </a>
+</a>
 </p>
 
-<br/>
+## 📬 Contact me
 
 <p align=center>
     <a href="https://github.com/hungpham3112" target="_blank">
@@ -143,3 +143,5 @@
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
