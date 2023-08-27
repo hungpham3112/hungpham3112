@@ -74,10 +74,13 @@
 
 
 ### ⚙️  GitHub Analytics
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hungpham3112&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" style="width: 65%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpham3112&hide_border=true&layout=compact&theme=tokyonight" style="width: 50%;" />
-</div>
+
+<p align="center">
+    <a href="https://github.com/hungpham3112">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungpham3112&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpham3112&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    </a>
+</p>
 
 <br/>
 
