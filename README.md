@@ -5,15 +5,27 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Hung+Pham;Open-source+enthusiast;Artificial+Intelligence+Student;I+use+Arch+btw" alt="Typing SVG" /></a>
 </div>
 
-<p align="center">
-  I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
-<br/>
-  On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
+<p align=center>
+    <a href="https://github.com/hungpham3112" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/image/github.svg" alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/image/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.facebook.com/phamhung311202" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/image/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
+    </a>
 </p>
 
+## About me
+
+- I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
+
+- On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
+
 <br/>
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 <p align=center>
  <kbd>
@@ -33,11 +45,11 @@
         <a href="https://julialang.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /></a>
         <a href="https://www.python.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
         <a href="https://www.r-project.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
+        <a href="https://www.rust-lang.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" /></a>
         <a href="https://www.cprogramming.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
+        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" /></a>
         <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
         <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
-        <a href="https://www.rust-lang.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" /></a>
-        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" /></a>
     </kbd>
       <br>
     <kbd>
@@ -97,7 +109,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
+## 📈 Github Profile Stats
 
 <p align="center">
     <a href="https://github.com/hungpham3112">
@@ -109,17 +121,12 @@
 
 <br/>
 
-### 📫 How to reach me
+## 🏆 Github Profile Trophy
 
-<p align=center>
-    <a href="https://github.com/hungpham3112" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/image/github.svg" alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/image/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/phamhung311202" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/image/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
+<p align="left">
+    <a href="https://github.com/hungpham3112">
+        <img height="180em"
+        src="https://github-profile-trophy.vercel.app/?username=hungpham3112&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
     </a>
 </p>
 
