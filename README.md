@@ -24,7 +24,6 @@
 Programming languages that I have had chances to work with: Python, Julia, C, C++, Rust, and Lua.
 
 - Daily, I try to sharpen my knowledge by reading books, technical blogs, references, and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of the command line interface (CLI).
-- 
 <br/>
 
 ## 🛠️ Tools
@@ -40,7 +39,7 @@ Programming languages that I have had chances to work with: Python, Julia, C, C+
     </kbd>
       <br>
     <kbd>
-      <kbd>Programming and Markup Languages</kbd>
+      <kbd>Programming Languages</kbd>
       <br>
       <br>
         <a href="https://www.c-language.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
