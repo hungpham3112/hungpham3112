@@ -16,10 +16,15 @@
 
 ## ♑ About me
 
-- I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
+"If you speak to a man in a language he understands, you speak to his head. If you speak to him in his language, you speak to his heart." - Nelson Mandela. 
 
-- On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
+- This famous quote inspires me on the way to becoming both a polyglot in machine language and a polyglot in human language. Talkative, friendly, and humorous are some adjectives that can describe my personality; therefore, connecting with people around the world was my destiny when I came to this world. My favorite language is Esperanto because Homaranismo (the philosophy behind Esperanto) can make this planet a more beautiful place.
 
+- Human languages that I have been learning: Vietnamese, English, Romanian, Japanese, Esperanto.
+Programming languages that I have had chances to work with: Python, Julia, C, C++, Rust, and Lua.
+
+- Daily, I try to sharpen my knowledge by reading books, technical blogs, references, and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of the command line interface (CLI).
+- 
 <br/>
 
 ## 🛠️ Tools
@@ -52,7 +57,7 @@
       <br>
       <br>
       <a href='https://www.tensorflow.org/' target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-      <a href="https://pytorch.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" /></a>
+      <a href="https://pytorch.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" /></a>
       <a href="https://fluxml.ai/" target="_blank"><img width="30px" src="https://avatars.githubusercontent.com/u/26222520?s=280&v=4" /></a>
       <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
       <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
@@ -79,9 +84,9 @@
       <kbd>System, Networking & Deployment</kbd>
       <br>
       <br>
-      <a href="https://www.heroku.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></a>
       <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
       <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
+      <a href="https://www.heroku.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></a>
       <a href="https://railway.app/" target="_blank"><img width="30px" src="https://railway.app/brand/logo-light.svg" /></a>
     </kbd>
     <kbd>
@@ -134,9 +139,6 @@
     </a>
     <a href="https://linkedin.com/in/hungpham3112" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/phamhung311202" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
     </a>
     <a href="mailto:phamhung20022015@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
